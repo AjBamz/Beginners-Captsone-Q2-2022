@@ -30,7 +30,7 @@ Lekan	|Ogunjuyigbe |School.
 David	|Ogunleye	|School.
 George|	Omeiza	|School.
 Amarachi	|Onukogu	|School.
-OLAITAN|	OYINDAMOLA|	School.
+Olaitan|	Oyindamola|	School.
 Ikeh	|Paul ikeh	|School.
 Pamela|	Orbih	|School.
 Jennifer|	Chioma|	School.
