@@ -1,32 +1,27 @@
 Kindly find your name and Project attached
 
 First Name|	Last Name  |	Project Idea
---- | --- | --- | 
 Adedeji (Dyc)  | Bolaji|	Bank
---- | --- | --- | 
 Victoria |	Chigozirim  |	Bank
---- | --- | --- | 
 Daniel|	Chris|	Bank
---- | --- | --- | 
 Chuks|	Egbo|	Bank
-
-Unyime	Ekanem	Bank
-Roseline	Nyong	Bank
-Mercy Ajifa	Samson	Hospital
-Williams	Samuel	Hospital
-Ahmed	Sanusi	Hospital
-Daudu	Temidayo	Hospital
-Nnenna	Umeh	Hospital
-Henrietta	Balogu	Hotel
-Ameena	Gani	Hospital
-Ubong	Effiong	School.
-Lekan	Adesina	Hospital
-Joel	Adu	Hospital
-Ameena	Gani	Hospital
-Onone-Obasi	Ibe	Hotel
-Salami	Odunayo	Hotel
-Ibukunoluwa	Ogunjuyigbe	Hotel
-Odofin	Omotolani	Hotel
+Unyime	|Ekanem|	Bank
+Roseline	|Nyong	|Bank
+Mercy Ajifa|	Samson|	Hospital
+Williams|	Samuel|	Hospital
+Ahmed	|Sanusi	|Hospital
+Daudu|	Temidayo|	Hospital
+Nnenna	|Umeh	|Hospital
+Henrietta|	Balogu|	Hotel
+Ameena	|Gani	|Hospital
+Ubong|	Effiong	|School.
+Lekan	|Adesina|	Hospital
+Joel|	Adu	|Hospital
+Ameena|	Gani|	Hospital
+Onone-Obasi	|Ibe	|Hotel
+Salami|	Odunayo|	Hotel
+Ibukunoluwa	|Ogunjuyigbe|	Hotel
+Odofin	|Omotolani	|Hotel
 Olumide	Oyediran	Hotel
 Adeseye	Adejorin	Hotel
 Godwin	Ogbemudia	School.
