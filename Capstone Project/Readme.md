@@ -35,7 +35,6 @@ Ikeh	|Paul ikeh	|School.
 Pamela|	Orbih	|School.
 Jennifer|	Chioma|	School.
 Kafayat	|Abdulsalam	|Schull.io
-Jennifer	|Achi	|Schull.io
 Bukola|	Adeomi|	Schull.io
 Smart	|Afolabi|	Schull.io
 Olalekan|	Aremo	|Schull.io
