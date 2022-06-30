@@ -23,7 +23,7 @@ Onone-Obasi	|Ibe	|Hotel
 Salami|	Odunayo|	Hotel
 Ibukunoluwa	|Ogunjuyigbe|	Hotel
 Odofin	|Omotolani	|Hotel
-Olumide	||Oyediran	|Hotel
+Olumide	|Oyediran	|Hotel
 Adeseye	|Adejorin	|Hotel
 Godwin|	Ogbemudia	|School.
 Lekan	|Ogunjuyigbe |School.
@@ -33,17 +33,17 @@ Amarachi	|Onukogu	|School.
 OLAITAN|	OYINDAMOLA|	School.
 Ikeh	|Paul ikeh	|School.
 Pamela|	Orbih	|School.
-Jennifer	Chioma	School.
-Kafayat	Abdulsalam	Schull.io
-Jennifer	Achi	Schull.io
-Bukola	Adeomi	Schull.io
-Smart	Afolabi	Schull.io
-Olalekan	Aremo	Schull.io
-Abdulrasaq	Aremu	Schull.io
-Adewole	Ebimomi	Schull.io
-Abdulrasaq	Abbey	Schull.io
-Ayobamidele	Ayeko	Tech Company
-Oluwadamilola	Olunrebi	Tech Company
-Kehinde	Adedokun	Tech Company
-Oluwafemi	Oguntimehin	Tech Company
-Rachel	Orumade	Tech Company
+Jennifer|	Chioma|	School.
+Kafayat	|Abdulsalam	|Schull.io
+Jennifer	|Achi	|Schull.io
+Bukola|	Adeomi|	Schull.io
+Smart	|Afolabi|	Schull.io
+Olalekan|	Aremo	|Schull.io
+Abdulrasaq	|Aremu	|Schull.io
+Adewole	|Ebimomi	|Schull.io
+Abdulrasaq|	Abbey	|Schull.io
+Ayobamidele	|Ayeko	|Tech Company
+Oluwadamilola|	Olunrebi|	Tech Company
+Kehinde	|Adedokun|	Tech Company
+Oluwafemi	|Oguntimehin|	Tech Company
+Rachel|	Orumade	|Tech Company
