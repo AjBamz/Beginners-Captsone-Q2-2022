@@ -2,11 +2,14 @@ Kindly find your name and Project attached
 
 First Name|	Last Name  |	Project Idea
 --- | --- | --- | 
-
-Adedeji (Dyc)  |	Bolaji|	Bank
+Adedeji (Dyc)  | Bolaji|	Bank
+--- | --- | --- | 
 Victoria |	Chigozirim  |	Bank
-Daniel	Chris	Bank
-Chuks	Egbo	Bank
+--- | --- | --- | 
+Daniel|	Chris|	Bank
+--- | --- | --- | 
+Chuks|	Egbo|	Bank
+
 Unyime	Ekanem	Bank
 Roseline	Nyong	Bank
 Mercy Ajifa	Samson	Hospital
